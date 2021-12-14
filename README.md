@@ -1,7 +1,6 @@
 # Marcos Céo
 
 </br>
-</br>
 
 ### Olá Comunidade! 👋
 </br>
