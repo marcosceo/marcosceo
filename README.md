@@ -5,20 +5,7 @@
 ### Olá Comunidade! 👋
 </br>
 
-Sou humano sênior tentando virar um Dev Júnior! 😁
 
-</br>
-
-<p align="center">
-  <img src="https://c.tenor.com/o5ewu4vTJ58AAAAM/old-man-computer.gif" width="350">
-</p>
-
-</br>
-</br>
-
-Iniciante no mundo da programação. Atualmente aprendendo desenvolvimento web criando muitos bugs em Javascript com React!
-
-</br>
 
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
